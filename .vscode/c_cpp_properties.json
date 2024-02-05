@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks",
+                "/opt/homebrew/Cellar/raylib/5.0/include"
+            ],
+            "compilerPath": "/usr/bin/clang"
+        }
+    ],
+    "version": 4
+}

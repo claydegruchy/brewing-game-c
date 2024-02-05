@@ -1,0 +1,7 @@
+*.dSYM
+*.out
+
+raylib-cpp/
+
+# macos
+.DS_Store
